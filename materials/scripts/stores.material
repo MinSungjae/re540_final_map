@@ -6,7 +6,7 @@ material StoreBurgerRed
     {
       texture_unit
       {
-        texture burger_red.png
+        texture burger_red.jpg
       }
     }
   }
@@ -20,7 +20,7 @@ material StoreBurgerYellow
     {
       texture_unit
       {
-        texture burger_yellow.png
+        texture burger_yellow.jpg
       }
     }
   }
@@ -34,7 +34,7 @@ material StoreCafeBlue
     {
       texture_unit
       {
-        texture cafe_blue.png
+        texture cafe_blue.jpg
       }
     }
   }
@@ -48,7 +48,7 @@ material StoreCafeYellow
     {
       texture_unit
       {
-        texture cafe_yellow.png
+        texture cafe_yellow.jpg
       }
     }
   }
@@ -62,7 +62,7 @@ material StorePharRed
     {
       texture_unit
       {
-        texture phar_red.png
+        texture phar_red.jpg
       }
     }
   }
@@ -76,7 +76,7 @@ material StorePharWhite
     {
       texture_unit
       {
-        texture phar_white.png
+        texture phar_white.jpg
       }
     }
   }
@@ -90,7 +90,7 @@ material StoreStoreBlue
     {
       texture_unit
       {
-        texture store_blue.png
+        texture store_blue.jpg
       }
     }
   }
@@ -104,7 +104,7 @@ material StoreStoreGreen
     {
       texture_unit
       {
-        texture store_green.png
+        texture store_green.jpg
       }
     }
   }
@@ -210,7 +210,7 @@ material plate
     {
       texture_unit
       {
-        texture plate.png
+        texture plate.jpg
       }
     }
   }
